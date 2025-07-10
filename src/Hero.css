@@ -1,0 +1,28 @@
+#welcome-section{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: linear-gradient(-45deg, white, gray, #003153);
+  color: white;
+  text-shadow: 4px 4px 2px #0C2340;;
+}
+
+#welcome-section h1:hover, #welcome-section h3:hover{
+  transform: scale(1.5);
+}
+
+#welcome-section h3{
+  padding-top: 1em;
+  width: 50%;
+  text-align: center;
+}
+
+@media screen and (max-width: 1050px){
+  #welcome-section h3{
+    padding-top: 1em;
+    width: 85%;
+    text-align: center;
+  }
+}
