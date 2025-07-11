@@ -25,27 +25,11 @@
     },
     {
         "category": "html-css",
-        "href": "https://codepen.io/eli-10-dev/pen/emOoJoz",
-        "src": "https://wallpapercave.com/wp/wp8534853.jpg",
-        "alt": "Computer Parts",
-        "title": "Technical Documentation Website",
-        "description": "A webpage on the different Computer parts. It utilized flexbox and its elements such as flex-grow. In this activity I also explore the position element through the sidebar."
-    },
-    {
-        "category": "html-css",
         "href": "https://codepen.io/eli-10-dev/pen/OPLGMGd",
         "src": "https://png.pngtree.com/thumb_back/fh260/background/20230613/pngtree-top-13-pool-table-wallpapers-to-get-your-ball-rolling-image_2927544.jpg",
         "alt": "Pool table",
         "title": "Product Landing Webpage",
         "description": "A product landing webpage on pool tables. It is made using both flex and grid layouts."
-    },
-    {
-        "category": "javascript",
-        "href": "https://palindrome-checker-eli.netlify.app/",
-        "src": "https://uselessetymology.com/wp-content/uploads/2019/10/palindrome-useless-etymology-12.png?w=1200",
-        "alt": "Palindrome Checker",
-        "title": "Palindrome Checker Website",
-        "description": "A Palindrome Checker app made using HTML, CSS, and JavaScript"
     },
     {
         "category": "javascript",
@@ -89,27 +73,11 @@
     },
     {
         "category": "reactjs",
-        "href": "https://random-quote-generator-eli.netlify.app/",
+        "href": "https://quote-generator-eli.netlify.app/",
         "src": "https://www.proven.us/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F9wa6q93ebjja%2F1mfHRH70dRUEHqzKYXnXYf%2Fc7b446dc1cd2cc1b1eb54ecdbe9eaa71%2FQuotation_Marks_Featured.jpg&w=3840&q=100",
         "alt": "Random Quote Generator",
         "title": "Random Quote Generator",
         "description": "A Random Quote Generator website made using ReactJS. It utilizes an API for the quotes shown in the website"    
-    },
-    {
-        "category": "reactjs",
-        "href": "https://markdown-previewer-eli.netlify.app/",
-        "src": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/12/reasons-to-use-markdown-documentation-and-notetaking.jpg",
-        "alt": "Mark Down Previewer",
-        "title": "Mark Down Previewer",
-        "description": "A Mark Down Previewer website made using ReactJS"
-    },
-    {
-        "category": "reactjs",
-        "href": "https://drum-machine-eli.netlify.app/",
-        "src": "https://img.freepik.com/free-vector/hand-drawn-drum-illustration_23-2150946304.jpg?semt=ais_hybrid&w=740",
-        "alt": "Drum Website",
-        "title": "Drum Website",
-        "description": "A digital Drum Website made using ReactJS"  
     },
     {
         "category": "reactjs",
@@ -121,7 +89,7 @@
     },
     {
         "category": "reactjs",
-        "href": "https://study-timer-eli.netlify.app/",
+        "href": "https://pomodoro-eli.netlify.app/",
         "src": "https://play-lh.googleusercontent.com/CFm-zUkpWYoBi6foXFmHSn4WsfhIYzzMVxzybDLwyCfBK_jBK8SOeL-jCtNIKwZ_Kw=w526-h296-rw",
         "alt": "Study Session Website",
         "title": "Study Session Website",

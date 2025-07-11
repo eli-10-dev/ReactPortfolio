@@ -1,17 +1,15 @@
 main{
+  /* border: 2px solid black; */
   display: grid;
   grid-template-columns: 
-      minmax(2rem, 1fr) 
-      minmax(min-content, 8fr) 
-      minmax(2rem, 1fr);
-    ;
-  align-self: center;
+      minmax(1rem, 1fr) 
+      minmax(min-content, 10fr) 
+      minmax(1rem, 1fr);
 }
 
 .buttons-container{
   /* border: 1px solid black; */
   grid-column: 2 / 3;
-  
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -39,6 +37,13 @@ main{
 .switch-button:active{
   background-color: black;
   color: var(--text-color);
+}
+
+.projects-container{
+  grid-column: 2 / 3;
+  box-shadow: 0px 0px 5px 3px gray;
+  border-radius: 5px;
+  margin-bottom: 4em;
 }
 
 .bar{
@@ -72,13 +77,6 @@ main{
 .circle.third{
   background-color: red; 
   left: 89%;
-}
-
-.projects-container{
-  grid-column: 2 / 3;
-  box-shadow: 0px 0px 5px 3px gray;
-  border-radius: 5px;
-  margin-bottom: 4em;
 }
 
 #projects{
